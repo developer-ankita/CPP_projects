@@ -1,8 +1,8 @@
 # C++_projects
 
-## Basic projects:
+## Basic projects🚀:
 
-### 1) Tic Tac Toe Game
+### 1) Tic Tac Toe Game🎮
 <img width="691" height="396" alt="image" src="https://github.com/user-attachments/assets/1d69f8d3-53dc-4b02-999e-86c8058cc433" />
 
 ### 2) Simple Contact Book
@@ -11,7 +11,7 @@
 ### 3) Daily Expense Tracker
 <img width="565" height="536" alt="image" src="https://github.com/user-attachments/assets/412dcba7-602f-4e32-b7fc-e62d0f0110eb" />
 
-## Intermediate projects:
+## Intermediate projects🚀:
 
 ### 1) To Do App
 <img width="460" height="533" alt="image" src="https://github.com/user-attachments/assets/582fd2a8-7243-4d06-bb1e-1c386d93a813" />
