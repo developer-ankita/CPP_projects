@@ -1,4 +1,4 @@
-# C++_projects
+<img width="599" height="475" alt="image" src="https://github.com/user-attachments/assets/84f08ac9-4ec0-4675-88ea-01bd556f9a8f" /># C++_projects
 
 ## Basic projects🚀:
 
@@ -10,16 +10,18 @@
 <img width="310" height="539" alt="image" src="https://github.com/user-attachments/assets/0ca32f3e-f6de-48b7-b5fa-fc68c968a944" />
 
 ### 3) Daily Expense Tracker
-<img width="565" height="536" alt="image" src="https://github.com/user-attachments/assets/412dcba7-602f-4e32-b7fc-e62d0f0110eb" />
+<img width="565" height="491" alt="image" src="https://github.com/user-attachments/assets/fe2e5727-2ccd-45ca-9a96-971324367c48" />
 
 ## Intermediate projects🚀:
 
 ### 1) To Do App
-<img width="460" height="533" alt="image" src="https://github.com/user-attachments/assets/582fd2a8-7243-4d06-bb1e-1c386d93a813" />
+<img width="389" height="486" alt="image" src="https://github.com/user-attachments/assets/4763042e-f2e2-4c82-bf3c-553efd3f0509" />     <img width="460" height="353" alt="image" src="https://github.com/user-attachments/assets/35942eef-ae2d-40dc-af5d-8e6f76554604" />
 
 ### 2)  Student Gradebook Ranking
-<img width="369" height="584" alt="image" src="https://github.com/user-attachments/assets/a5ce7d08-b08d-4d15-af97-4cbf1ba1eb16" />
+<img width="424" height="583" alt="image" src="https://github.com/user-attachments/assets/5380262e-ccd0-4269-960e-d829812f3f7c" />     <img width="591" height="296" alt="image" src="https://github.com/user-attachments/assets/93fd9eb5-5970-4972-9606-9165b5345ba5" />
 
 ### 3)  Library Management System
-<img width="495" height="564" alt="image" src="https://github.com/user-attachments/assets/5fbcdfee-1792-4910-acde-06dc3b9c9c7a" />
+<img width="477" height="579" alt="image" src="https://github.com/user-attachments/assets/9710e3d1-02d2-4c89-9c71-f08f0e20f701" />      <img width="565" height="577" alt="image" src="https://github.com/user-attachments/assets/cee89864-3740-4214-9e34-a41072c7aef5" />
+
+
 
