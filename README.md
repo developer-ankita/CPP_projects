@@ -1,4 +1,4 @@
-<img width="599" height="475" alt="image" src="https://github.com/user-attachments/assets/84f08ac9-4ec0-4675-88ea-01bd556f9a8f" /># C++_projects
+# C++_projects
 
 ## Basic projects🚀:
 
