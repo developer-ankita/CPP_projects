@@ -1,1 +1,4 @@
-# CPP_projects
+# C++_projects
+
+## Basic projects:
+### Tic Tac Toe Game
